@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/morocco-blue.png");
+  }
+
+  .header {
+      background-color: orange;
+      width: 400px;
+      border-color: orange;
+  }
+
+  .instructions {
+      text-align: left;
+      color: green;
+      background-color: #FFE4C4;
+      border-color: #FFE4C4;
+      width: 480px;
+  }
