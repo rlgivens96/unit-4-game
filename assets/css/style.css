@@ -6,6 +6,7 @@ body {
       background-color: orange;
       width: 400px;
       border-color: orange;
+      text-align: center;
   }
 
   .instructions {
@@ -14,4 +15,19 @@ body {
       background-color: #FFE4C4;
       border-color: #FFE4C4;
       width: 480px;
+  }
+
+  .randomNum {
+      height: 250px;
+      width: 400px;
+      background-color: seagreen;
+      color: magenta;
+      text-align: center;
+      border-color: seagreen;
+      border-style: solid;
+  }
+
+  .crystal-image {
+      width: 300px;
+      height: 300px;
   }
