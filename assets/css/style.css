@@ -1,33 +1,65 @@
 body {
-    background-image: url("../images/morocco-blue.png");
+     background-image: url("../images/morocco-blue.png");
   }
 
   .header {
-      background-color: orange;
-      width: 400px;
-      border-color: orange;
-      text-align: center;
+     background-color: orange;
+     width: 400px;
+     border-color: orange;
+     text-align: center;
+     margin-left: 50px;
   }
 
   .instructions {
-      text-align: left;
-      color: green;
-      background-color: #FFE4C4;
-      border-color: #FFE4C4;
-      width: 480px;
+     text-align: left;
+     color: green;
+     background-color: cornflowerblue;
+     border-color: cornflowerblue;
+     width: 480px;
+     margin-left: 50px;
   }
 
   .randomNum {
-      height: 250px;
-      width: 400px;
-      background-color: seagreen;
-      color: magenta;
-      text-align: center;
-      border-color: seagreen;
-      border-style: solid;
+     height: 250px;
+     width: 400px;
+     background-color: seagreen;
+     color: magenta;
+     text-align: center;
+     border-color: seagreen;
+     border-style: solid;
+     margin-left: 50px;
+  }
+
+  #winLost {
+     background-color: lightpink;
+     color: darkslategray;
+     border-color: darkslategray;
+     text-align: left;
+     margin-left: 50px;
   }
 
   .crystal-image {
-      width: 300px;
-      height: 300px;
+     width: 300px;
+     height: 300px;
+     margin-left: 50px;
+  }
+
+  .totalScore {
+      background-color: darkcyan;
+      color: grey;
+      height: 200px;
+      width: 200px;
+      margin-left: 50px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+
+  .score {
+      background-color: coral;
+      color: darkgrey;
+      width: 150px;
+      height: 150px;
+      margin-left: 50px;
+      margin-top: 50px;
+      margin-bottom: 50px;
   }
